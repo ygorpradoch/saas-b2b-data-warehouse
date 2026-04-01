@@ -43,6 +43,7 @@ O Data Warehouse foi estruturado utilizando a metodologia *Star Schema* para gar
 ## 📈 4. Dashboard e Insights Executivos
 
 O dashboard foi projetado com uma estética "Dark Mode", priorizando o conforto cognitivo, a redução de ruído visual e uma hierarquia de dados clara. Ele conta com menu de navegação lateral, segmentadores globais dinâmicos e *tooltips* customizadas para uma melhor experiência do usuário (UX).
+[ver dashboard completo](https://app.powerbi.com/view?r=eyJrIjoiYWI5NTdiOTctZDg0Ny00NzM4LWI5NDktZWMzZDlhZTc4NGI5IiwidCI6ImIxNTZhNTQxLWUyMzYtNGVkYi05MWJmLWZjYTI1YzcwMDRmOSJ9)
 
 ### Página 1: Visão Executiva
 Fornece um panorama de alto nível da saúde financeira da empresa e do desempenho dos produtos ao longo do tempo.
