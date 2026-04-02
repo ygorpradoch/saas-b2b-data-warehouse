@@ -53,4 +53,4 @@ Fornece um panorama de alto nível da saúde financeira da empresa e do desempen
 Atua como um mini-CRM para a equipe de Customer Success, contando com barra de pesquisa, formatação condicional para contas canceladas e barras de dados visuais para identificação rápida dos maiores contratos (MRR).
 ![Placeholder do Detalhamento](https://github.com/user-attachments/assets/a145bd05-032c-4a62-92ad-118da1b43c45)
 
-*Desenvolvido por Ygor - Conecte-se comigo no [LinkedIn](www.linkedin.com/in/ygor-prado-chagas).*
+*Desenvolvido por Ygor - Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ygor-prado-chagas).*
